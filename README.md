@@ -1,5 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Mr-SyS-exe
 
+🎓 Estudiante de Ingeniería Informática en la Universidad de La Laguna (ULL)
+
+💻 Apasionado por la ciberseguridad y los sistemas
+
+📍 Tenerife, España
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+* **Lenguajes:** C++
+* **Sistemas y herramientas:** Git, Linux, Windows (Active Directory)
+* **Actualmente aprendiendo:** Python
+
+  
+---
+
+## 🎯 Sobre mí
+
+Me interesa mucho la ciberseguridad y la computación cuántica.
 <!--
 **Yared-Ramos/Yared-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
