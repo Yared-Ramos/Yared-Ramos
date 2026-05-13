@@ -1,4 +1,4 @@
-# 👋 Hola, soy Mr-SyS-exe
+# 👋 Hola, soy Yared Ramos
 
 🎓 Estudiante de Ingeniería Informática en la Universidad de La Laguna (ULL)
 
