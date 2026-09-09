@@ -12,7 +12,7 @@
 
 * **Lenguajes:** C++
 * **Sistemas y herramientas:** Git, Linux, Windows (Active Directory)
-* **Actualmente aprendiendo:** Python
+* **Actualmente aprendiendo:** Ruby y Python
 
   
 ---
