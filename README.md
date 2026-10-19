@@ -1,25 +1,25 @@
-# 👋 Hola, soy Yared Ramos
+# 👋 Hi, I'm Yared Ramos
 
-🎓 Estudiante de Ingeniería Informática en la Universidad de La Laguna (ULL)
+🎓 Computer Engineering student at the Universidad de La Laguna (ULL)
 
-💻 Apasionado por la ciberseguridad y los sistemas
+💻 Passionate about cybersecurity and operating systems, with a particular interest in developing robust and efficient solutions.
 
-📍 Tenerife, España
+📍 Tenerife, Spain
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Technologies and Tools
 
-* **Lenguajes:** C++
-* **Sistemas y herramientas:** Git, Linux, Windows (Active Directory)
-* **Actualmente aprendiendo:** Ruby y Python
+* **Programming Languages:** C++
+* **Systems and Tools:** Git, Linux, Windows (Active Directory)
+* **Currently Learning:** Ruby and Python
 
-  
 ---
 
-## 🎯 Sobre mí
+## 🎯 About Me
 
-Me interesa mucho la ciberseguridad y la computación cuántica.
+My main interests focus on cybersecurity and quantum computing, areas in which I'm eager to keep expanding my knowledge and applying it to real-world projects.
+
 <!--
 **Yared-Ramos/Yared-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
